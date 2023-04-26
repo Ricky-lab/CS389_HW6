@@ -1,0 +1,8 @@
+---
+
+num_states : 720
+num_hidden_states : 2
+terminal_states : 0
+dim_actions : 3
+num_action_choices : 2
+data_loc : 'sepsis_mdp_master/mdps/configs/gumbel_max_diabetes/data.npz'
